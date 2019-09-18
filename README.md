@@ -1,1 +1,0 @@
-# homework-7-myslider
