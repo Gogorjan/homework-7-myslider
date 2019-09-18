@@ -1,0 +1,72 @@
+body {
+    background-color: #ccc ;
+}
+.conteiner {
+    width: 700px ;
+    margin: 50px auto ;
+}
+h1 {
+    text-align: center ;
+    color: black ;
+    font-size: 80px ;
+    opacity: 0.7 ;
+}
+.slider {
+    width: 700px ;
+    height: 400px ;
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0 ;
+    border: 10px solid white ;
+    border-radius: 15px ;
+}
+.line {
+    width: 700px ;
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0 ;
+    position: relative ;
+}
+.image {
+    width: 700px ;
+    height: 400px;
+    float: left ;
+    font-size: 50px ;
+    text-align: center ;
+    position: relative ;
+}
+.Image-text {
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0 ;
+    margin-top: 22% ;
+}
+.button-previous-current{
+    display: flex ;
+    flex-grow: inherit ;
+    padding-top: 20px ;
+    justify-content: space-evenly ;
+}
+.button-previous-current img:hover {
+    opacity: 1;
+}
+.buttons {
+    width: 50px ;
+    height: 50px;
+    cursor: pointer ;
+    opacity: 0.5 ;
+}
+.previous {
+    display: flex ;
+}
+.current {
+    display: flex ;
+}
+.previous-play {
+    display: flex ;
+}
+.next-play {
+    display: flex ;
+}
+.Image {
+    margin: 0 ;
+    padding: 0 ;
+    float: left ;
+}
